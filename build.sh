@@ -1,0 +1,1 @@
+python3 src/main.py "https://github.com/biljanamimk/3_ssg_python.git"
